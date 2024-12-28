@@ -1,0 +1,20 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "100000",
+        "image": "https:\/\/www.bmw.mu\/content\/dam\/bmw\/common\/all-models\/m-series\/series-overview\/bmw-m-series-seo-overview-ms-04.jpg"
+    },
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "10000000",
+        "image": "https:\/\/www.bmw.co.nz\/content\/dam\/bmw\/common\/all-models\/m-series\/m4-coupe\/2024\/navigation\/bmw-m-series-m4-coupe-modelfinder.png"
+    },
+    {
+        "name": "R15",
+        "type": "bike",
+        "price": "2000",
+        "image": "https:\/\/imgd.aeplcdn.com\/1056x594\/n\/bw\/models\/colors\/yamaha-yzf-r1-2018-tech-black-1512471351531.jpg"
+    }
+]
